@@ -8,7 +8,7 @@ Brings back the Windows-style taskbar experience to GNOME.
 
 ## Screenshot
 
-![Zorin Taskbar Screenshot](https://extensions.gnome.org/extension-data/screenshots/screenshot_9046.png "Dash To Taskbar Screenshot")
+![Zorin Taskbar Screenshot](https://extensions.gnome.org/extension-data/screenshots/screenshot_9046_JHxwIEc.png "Dash To Taskbar Screenshot")
 
 ---
 
