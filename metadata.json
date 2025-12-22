@@ -1,0 +1,10 @@
+{
+  "extension-id": "dash-to-taskbar",
+  "uuid": "dash-to-taskbar@w1zardk1ng",
+  "name": "Dash To Taskbar",
+  "description": "Brings back the Windows-style taskbar experience to GNOME.",
+  "shell-version": [ "46", "47", "48", "49" ],
+  "gettext-domain": "dash-to-taskbar",
+  "settings-schema": "org.gnome.shell.extensions.dash-to-taskbar",
+  "version": 1
+}
