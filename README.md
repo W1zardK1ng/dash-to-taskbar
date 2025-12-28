@@ -12,12 +12,6 @@ Brings back the Windows-style taskbar experience to GNOME.
 
 ---
 
-## Download
-
-You can download the extension directly from GNOME Extensions:
-
-[Download Dash To Taskbar](https://extensions.gnome.org/extension/9046/dash-to-taskbar/)
-
 
 # Manual Installation
 
